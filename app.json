@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "projeto-doador-front",
+    "slug": "projeto-doador-front",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "projeto-doador-front"
+}
